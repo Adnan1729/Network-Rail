@@ -1,7 +1,7 @@
 # Network-Rail
-##Summer Internship 2023
+## Summer Internship 2023
 
-**1	II R&D background and document summary**
+### **1	II R&D background and document summary**
 
 The Research & Development (R&D) Innovation stream is a key component of the NR Intelligent Infrastructure (II) programme. The R&D programme is focused on using Advanced Analytics and Machine Learning (ML) POC's to improve the prediction and prevention of faults. The overall approach is Use Case based with initially a maximum of 6 Use Cases in scope, now extended to 8.   Several of the Use Cases have a number of Phases. This document covers Phase 1, Phase 2 and Phase 3 changes (HW series changes, model performance experiment) of the Point Operating Equipment use case. Those business users familiar with POE Phase 1 solution document may wish to jump to section 1.9 Modelling Results. Colleagues who are engaged on converting model output to Prototype and Production may wish to go to section 4, Data Requirements and Data Ingestion.
 
